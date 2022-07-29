@@ -1,0 +1,67 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 2,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 3,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 4,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 5,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 6,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 7,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 8,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      },
+      {
+        "id": 9,
+        "name": "Aisha Christopher",
+        "designation": "Full Stack Developer",
+        "skills": "React,JavaScript,Typescript",
+        "city": "Hyderabad,India"
+      }
+    ]
+  }

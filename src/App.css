@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.user-container {
+  margin: auto;
+  width: 30%;
+  border: 5px solid white;
+  padding: 50px;
+}
